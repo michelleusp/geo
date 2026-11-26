@@ -1,4 +1,2 @@
 # geo
-A repository for my PHD Scripts
-Sou uma estudante de doutorado da Geografia, estudo Geomorfologia dinâmica aplicada a escorregamentos de vertentes.
-Uma descrição sobre mim
+Doutora em Geografia pelo DG-FFLCH/USP e Responsável pelo Laboratório de Cartografia e Geoprocessamento DG-FFLCH/USP
